@@ -4,6 +4,8 @@ Proyecto Layout-Ecommerce-Grid desarollado por Israel Aguilera como práctica de
 
 ## Acceso github pages
     https://buffonico.github.io/Layout-Ecommerce-Grid/
+## Acceso a github proyecto
+    https://github.com/buffonico/Layout-Ecommerce-Grid
     
     
 
